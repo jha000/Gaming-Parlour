@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425538591400",
+    "project_id": "gaming-parlour",
+    "storage_bucket": "gaming-parlour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425538591400:android:88b0dbad1004f4d4f8409d",
+        "android_client_info": {
+          "package_name": "com.app.gamingparlour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425538591400-3e2ob0l0pubbp7rmtuijf6u03dntuft9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OGBNvQLKi1md7TkP7TGdvxaIreuLqKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425538591400-3e2ob0l0pubbp7rmtuijf6u03dntuft9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
